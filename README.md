@@ -1,6 +1,6 @@
-# 🚀 Machine Learning & Data Mining Algorithms
+# 🚀 Data Mining Solution
 
-This repository contains Python solutions and implementations for various machine learning and data mining algorithms covered across multiple labs.
+This repository contains Python solutions and implementations for various  data mining algorithms covered across multiple labs.
 
 ---
 
