@@ -1,0 +1,11 @@
+Lab-01: pdf ipynb file, Pandas function theory
+Lab-02: pdf
+Lab-03: pdf
+Lab-04: pdf, Chipotle(github) exercise pdf, orange structure(1 Screenshot)
+Lab-05: Apriori Sum (2 sum)
+Lab-06: FP growth (2 sum) 3 screenshot
+Lab-07: Decision Tree(1 sum), Orange decision tree screenshot
+Lab-08: Gini index(1sum), naïve bayes(1sum)
+Lab-09: K-means (1sum), orange screenshot.
+Lab-10: K-medoids (1sum)
+Lab-11: Aglomerative approach(1sum), orange screenshot
