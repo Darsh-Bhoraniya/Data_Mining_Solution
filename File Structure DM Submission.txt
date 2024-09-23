@@ -8,4 +8,4 @@ Lab-07: Decision Tree(1 sum), Orange decision tree screenshot
 Lab-08: Gini index(1sum), naïve bayes(1sum)
 Lab-09: K-means (1sum), orange screenshot.
 Lab-10: K-medoids (1sum)
-Lab-11: Aglomerative approach(1sum), orange screenshot
+Lab-11: Aglomerative approach(1sum)
